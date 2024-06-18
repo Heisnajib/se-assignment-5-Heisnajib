@@ -1,1 +1,12 @@
+installation of VS code;
+search for VISUAL STUDIO CODE on your search engine and the first link that pop up is the right one for downloading it, after opening it select download for WINDOWS 10,11 and it will start to download. after downloading open the file on the folder site and right click it then run it as an administrator, then follow all instructions by clicking 'next' untll it will start to install. when it finish the installation you will see the 'FINISH' button and there you have visual studio code on your computer. (you may review attached screenshots on the comment section)
+first time set-up;
+you have to install the extensions which will help you on your coding projects, the button for extension is found on the left side of your VS code with a symbol of four small boxes, one of the most popular extension is PYTHON
+user interface overview;
+a. activity bar; it is located on the left side of the IDE and it has list of icons for different activities and extensions and it allow user to switch beteen views such as explorer, debugger and terminal
+b. editor group; it takes the central area of the IDE and it contains the open files and editors and it allows switching between files
+c. status bar; located at the bottom of the IDE and it shows informations about the current files and it help a user to keep track of their progress
+command palette 
+is the quick search bar for finding commands and actions, some of common tasks that can be performed using the Command Palette are finding commands, create new files, go to symbols, lines and files
+extensions these are other software programs that will also help you performing your software projects smoothly, it is found on the left side of the VScode and is presented by a symbol of a four small boxes, by clicking it you will be able to manage and download new extensions required for your project. exmples for web development are Auto import, Debugger for chrome, Live server, Prettier, ESLint.
 
