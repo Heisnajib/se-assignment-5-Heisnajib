@@ -9,4 +9,17 @@ c. status bar; located at the bottom of the IDE and it shows informations about 
 command palette 
 is the quick search bar for finding commands and actions, some of common tasks that can be performed using the Command Palette are finding commands, create new files, go to symbols, lines and files
 extensions these are other software programs that will also help you performing your software projects smoothly, it is found on the left side of the VScode and is presented by a symbol of a four small boxes, by clicking it you will be able to manage and download new extensions required for your project. exmples for web development are Auto import, Debugger for chrome, Live server, Prettier, ESLint.
-
+files and folder managemnts;
+when you open your VScode on your top left corner you will see a "file" button and when you click it will give you a list of some options and then click "new file" for creating a new file and "open file" for opening a file which has been created, then click "open folder" for managing your folders. (you may refer to my screenshots for more understanding)
+settings and preferences;
+when you click a "file" button on a top left corner of your VScode it will give you more options and at the bottom you will see a "preferrence" you may click it for setting options, then click "theme" for changing themes. (refer to screenshots attached)
+debugging in VScode;
+To run or debug a simple app in VS Code, select Run and Debug on the Debug start view or press F5 and VS Code will try to run your currently active file. A powerful VS Code debugging feature is the ability to set conditions based on expressions, hit counts, or a combination of both.
+Using Source Control:
+If your workspace is on your local machine, you can enable Git source control by creating a Git repository with the Initialize Repository command. When VS Code doesn't detect an existing Git repository, the Source Control view will give you the options to Initialize Repository or Publish to GitHub.
+Initializing a Git repository;
+a. Open TerminalTerminalGit Bash.
+b. Navigate to the root directory of your project.
+c. Initialize the local directory as a Git repository. By default, the initial branch is called main
+d. Add the files in your new local repository. ...
+e. Commit the files that you've staged in your local repository.
